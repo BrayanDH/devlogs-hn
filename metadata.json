@@ -1,0 +1,5 @@
+{
+  "name": "DevLog - Developer Event Vlog",
+  "description": "A developer vlog platform with a public view for events and a secure admin dashboard for content management, powered by Gemini AI for content assistance.",
+  "requestFramePermissions": []
+}
